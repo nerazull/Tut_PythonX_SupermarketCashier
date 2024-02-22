@@ -1,2 +1,2 @@
-# Tut_PythonX_SupermarketCashier
+# tutorial-supermarket-cashier
 First project with the "Learn Python" (Python X) Android app.
